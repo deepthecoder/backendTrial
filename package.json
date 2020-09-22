@@ -1,0 +1,24 @@
+{
+  "name": "backendtrial",
+  "version": "1.0.0",
+  "description": "Trying out GraphQL API endpoint hosted on Amazon EC2 instance",
+  "main": "index.js",
+  "dependencies": {
+    "apollo-server": "^2.17.0",
+    "graphql": "^15.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deepthecoder/backendTrial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deepthecoder/backendTrial/issues"
+  },
+  "homepage": "https://github.com/deepthecoder/backendTrial#readme"
+}
